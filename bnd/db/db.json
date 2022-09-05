@@ -1,0 +1,81 @@
+{
+  "estado": {
+    "valores": [
+      {
+        "id": 1,
+        "tipo": "P2, R$45,00"
+      },
+      {
+        "id": 2,
+        "tipo": "P13, R$115,00"
+      },
+      {
+        "id": 3,
+        "tipo": "P30, R$250,00"
+      },
+      {
+        "id": 4,
+        "tipo": "P60, R$500,00"
+      }
+    ],
+    "marcas": [
+      {
+        "id": 1,
+        "tipo": "liquigás"
+      },
+      {
+        "id": 2,
+        "tipo": "Concigaz"
+      },
+      {
+        "id": 3,
+        "tipo": "Supergasbras"
+      },
+      {
+        "id": 4,
+        "tipo": "Zachiagas"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Prateado"
+      },
+      {
+        "id": 2,
+        "tipo": "Cinza"
+      },
+      {
+        "id": 3,
+        "tipo": "Dourado"
+      },
+      {
+        "id": 4,
+        "tipo": "Azul"
+      },
+      {
+        "id": 4,
+        "tipo": "Verde"
+      },
+      {
+        "id": 4,
+        "tipo": "Preto"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": []
+}
