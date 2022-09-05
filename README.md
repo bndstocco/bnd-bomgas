@@ -1,6 +1,7 @@
 to start
 
 cd bnd
+
 npm install
 
 cd bnd
